@@ -3,7 +3,4 @@ node_modules
 coverage
 examples/basic/*js
 docs
-dist
-lib
-es
 *.log
