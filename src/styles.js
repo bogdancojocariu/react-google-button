@@ -1,16 +1,15 @@
 const baseStyle = {
-  height: '50px',
-  width: '240px',
+  height: '40px',
+  width: '234px',
   border: 'none',
   textAlign: 'center',
-  verticalAlign: 'center',
   boxShadow: '0 2px 4px 0 rgba(0,0,0,.25)',
-  fontSize: '16px',
-  lineHeight: '48px',
+  fontSize: '13px',
+  lineHeight: '40px',
   display: 'block',
-  borderRadius: '1px',
+  borderRadius: '2px',
   transition: 'background-color .218s, border-color .218s, box-shadow .218s',
-  fontFamily: 'Roboto,arial,sans-serif',
+  fontFamily: 'Barlow,sans-serif',
   cursor: 'pointer'
 }
 
@@ -27,8 +26,8 @@ export const lightStyle = {
 }
 
 export const iconStyle = {
-  width: '48px',
-  height: '48px',
+  width: '38px',
+  height: '38px',
   textAlign: 'center',
   verticalAlign: 'center',
   display: 'block',
@@ -41,8 +40,8 @@ export const iconStyle = {
 }
 
 export const svgStyle = {
-  width: '48px',
-  height: '48px',
+  width: '38px',
+  height: '38px',
   display: 'block'
 }
 
