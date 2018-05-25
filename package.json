@@ -1,5 +1,5 @@
 {
-  "name": "react-google-button",
+  "name": "airtame-react-google-button",
   "version": "0.5.3",
   "main": "lib/index.js",
   "module": "es/index.js",
